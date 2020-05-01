@@ -34,12 +34,11 @@ Covid-19 data resources and links
 
 ## Hacks and Data Challenges
 
-- [COVID-19 Literature Clustering | Kaggle](https://www.kaggle.com/maksimeren/covid-19-literature-clustering) \#www.kaggle.com
-
+- [COVID-19 Literature Clustering | Kaggle](https://www.kaggle.com/maksimeren/covid-19-literature-clustering) \#kaggle.com
 - [APIs to Track Coronavirus COVID-19 | ProgrammableWeb](https://www.programmableweb.com/news/apis-to-track-coronavirus-covid-19/review/2020/04/24) \#programmableweb.com
 - [CORD-19 | Semantic Scholar](https://www.semanticscholar.org/cord19) \#semanticscholar.org
 - [Population - Worldometer](https://www.worldometers.info/population/) \#worldometers.info
 
 ## Projects
 
-- [Hi, I'm the guy who aggregated & processed the dataset for the two COVID-19 posts that went to the front page yesterday. Here's my visualization of how that dataset compares to other causes of death. [OC] : dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/fyqno3/hi_im_the_guy_who_aggregated_processed_the/) \#www.reddit.com
+- [Data is Beautiful - Reddit | Processed the dataset for the two COVID-19 posts that went to the front page yesterday. Here's my visualization of how that dataset compares to other causes of death. [OC] : dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/fyqno3/hi_im_the_guy_who_aggregated_processed_the/) \#www.reddit.com
