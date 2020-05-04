@@ -32,6 +32,10 @@ Covid-19 data resources and links
 - [Text Mining Collections](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/) \#ncbi.nlm.nih.gov
 - [Coronavirus (COVID-19) | National Institutes of Health (NIH)](https://www.nih.gov/health-information/coronavirus) \#nih.gov
 
+## COVID-19 Exposure/Contact tracing
+
+- [https://www.blog.google/documents/68/Android_Exposure_Notification_API_documentation_v1.2.pdf] \#Guide for Android Tracing API
+
 ## Hacks and Data Challenges
 
 - [COVID-19 Literature Clustering | Kaggle](https://www.kaggle.com/maksimeren/covid-19-literature-clustering) \#kaggle.com
