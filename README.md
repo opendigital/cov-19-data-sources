@@ -31,6 +31,7 @@ Covid-19 data resources and links
 - [Coronavirus Disease 2019 (COVID-19) | coronavirus.gov](https://www.coronavirus.gov/) \#coronavirus.gov
 - [Text Mining Collections](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/) \#ncbi.nlm.nih.gov
 - [Coronavirus (COVID-19) | National Institutes of Health (NIH)](https://www.nih.gov/health-information/coronavirus) \#nih.gov
+- https://rapidapi.com/collection/coronavirus-covid-19 \#19 COVID APIs
 
 ## COVID-19 Exposure/Contact tracing
 
